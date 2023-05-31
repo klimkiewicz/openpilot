@@ -1,10 +1,10 @@
 [
   {
     "name": "boot",
-    "url": "https://commadist.azureedge.net/agnosupdate/boot-8d8d8620de8b2687f3a8fffdb81b2abd1fe2ead5bc831361a1a212e5589ac279.img.xz",
-    "hash": "8d8d8620de8b2687f3a8fffdb81b2abd1fe2ead5bc831361a1a212e5589ac279",
-    "hash_raw": "8d8d8620de8b2687f3a8fffdb81b2abd1fe2ead5bc831361a1a212e5589ac279",
-    "size": 15636480,
+    "url": "https://github.com/klimkiewicz/agnos-kernel-sdm845/raw/a536794992af4b18d902a0e7349fda51eb4edce0/build/boot.img.xz",
+    "hash": "de3e9ed5b4f154c58599a2191d338326c859fb639be94b31c38ab66af42f9569",
+    "hash_raw": "de3e9ed5b4f154c58599a2191d338326c859fb639be94b31c38ab66af42f9569",
+    "size": 15112192,
     "sparse": false,
     "full_check": true,
     "has_ab": true
