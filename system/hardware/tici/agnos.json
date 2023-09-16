@@ -1,10 +1,10 @@
 [
   {
     "name": "boot",
-    "url": "https://github.com/klimkiewicz/agnos-kernel-sdm845/raw/a536794992af4b18d902a0e7349fda51eb4edce0/build/boot.img.xz",
-    "hash": "de3e9ed5b4f154c58599a2191d338326c859fb639be94b31c38ab66af42f9569",
-    "hash_raw": "de3e9ed5b4f154c58599a2191d338326c859fb639be94b31c38ab66af42f9569",
-    "size": 15112192,
+    "url": "https://github.com/klimkiewicz/agnos-kernel-sdm845/blob/c1ab4aa63bb17694b85c4ed21b2e3f9833844d82/build/boot.img.xz",
+    "hash": "900890412507a38d75d754f26315674b227930c6152cd9b307e63eced7ac9d66",
+    "hash_raw": "900890412507a38d75d754f26315674b227930c6152cd9b307e63eced7ac9d66",
+    "size": 15333376,
     "sparse": false,
     "full_check": true,
     "has_ab": true
