@@ -2,7 +2,7 @@
 
 sudo systemctl stop lte
 sudo systemctl stop systemd-resolved
-cp resolv.conf /run/systemd/resolve/stub-resolv.conf
+sudo cp resolv.conf /run/systemd/resolve/stub-resolv.conf
 
 export PASSIVE="0"
 exec ./launch_chffrplus.sh
